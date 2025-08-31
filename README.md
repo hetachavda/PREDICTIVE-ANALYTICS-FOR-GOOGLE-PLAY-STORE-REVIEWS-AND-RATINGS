@@ -10,11 +10,11 @@ This project demonstrates **EDA, supervised & unsupervised learning, sentiment a
 With millions of apps on the **Google Play Store**, competition is fierce. Success depends on **ratings, reviews, installs, and pricing strategies**.  
 
 ### Objectives  
-- 🔹 Predict **app ratings**  
-- 🔹 Analyze **user sentiments in reviews**  
-- 🔹 Compare **Free vs Paid apps**  
-- 🔹 Identify **key features influencing success**  
-- 🔹 Forecast **future app trends** using time series  
+🔹 Predict **app ratings**  
+🔹 Analyze **user sentiments in reviews**  
+🔹 Compare **Free vs Paid apps**  
+🔹 Identify **key features influencing success**  
+🔹 Forecast **future app trends** using time series  
 
 ---
 
